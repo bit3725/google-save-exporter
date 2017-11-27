@@ -1,0 +1,16 @@
+{
+  "name": "google-save-exporter",
+  "version": "0.1.0",
+  "description": "Export bookmarks from google save page(https://www.google.com/save)",
+  "main": "index.js",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "puppeteer": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
